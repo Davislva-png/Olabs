@@ -1,0 +1,3 @@
+/* Olabs uses its own design tokens (src/olabs/olabs.css). No global reset on purpose: the
+   original prototype relies on browser defaults (content-box sizing). */
+html { -webkit-text-size-adjust: 100%; }
